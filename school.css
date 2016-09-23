@@ -1,0 +1,40 @@
+body {
+	background-color: #0cc19d;
+}
+#banner {
+	/*background-color: #FAEBD7;*/
+	/*background: radial-gradient(blue, yellow, red);*/
+	background: linear-gradient(to left, #1da4d2, #f1bc2f);
+	margin-top: 25px;
+	margin-left: 30px;
+	margin-right: 50px;
+}
+#bannerpic {
+	float: right;
+	margin: 0 0 10px 10px;
+	border-style: ridge;
+	border-width: 8px;
+	border-color: #F44336;
+	padding: 3px;
+	box-shadow: 10px 5px 8px #333333;
+}
+.floatclear {
+	clear: both;
+}
+#slideshow {
+	border-style: ridge;
+	border-width: 10px;
+	border-color: #999999;
+	width: 35%;
+	padding: 10px;
+	box-shadow: -8px -8px 15px #333333;
+	margin: auto;
+}
+#aboutmebutton {
+	background-color: #4CAF50;
+	font-size: 1.5em;
+	display: inline-block;
+	border-radius: 8px;
+	margin: 4px;
+	border-color: #000000;
+}
